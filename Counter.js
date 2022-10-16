@@ -1,5 +1,8 @@
 import React from "react"
 //hello
+/*
+
+*/
 export default class counter extends React.Component{
     constructor(){
         super();
